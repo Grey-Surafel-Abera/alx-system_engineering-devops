@@ -1,3 +1,0 @@
-# alx-system_engineering-devops
-DevOps
-NEw Files
