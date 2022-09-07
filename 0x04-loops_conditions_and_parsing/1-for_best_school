@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-#Creating a script that uses a for loop
-for _ in {1..10}
+#looping word 10 times in for loop
+for i in 1 2 3 4 5 6 7 8 9 10
 do
-	echo "Holberton School"
+   echo "Best School"
 done
